@@ -14,6 +14,10 @@ Describe the purpose/benefit of exercise
 
 Provide instructions
 
+## Additional Resources
+
+Provide resources if needed
+
 ## Deliverable
 
 Describe what the expectation is
