@@ -49,3 +49,6 @@ Provide resources if needed
 
 Complete this challenge in a CodePen. Submit the link to that CodePen in the Google Form provided in the cohort channel.
 
+## Example
+
+![image](https://user-images.githubusercontent.com/25447342/68792511-b090b500-0608-11ea-9972-d330598aa950.png)
