@@ -1,6 +1,6 @@
 ## JavaScript DOM Challenge: Dark Mode
 
-Not only do you get to build out a populat feature that is used on many applications, this challenge will give you some practice handling the ever-so-frequent button click! The fun thing about this one is, while it's a small piece of functionality, there are endless possibilities for how you implement it and what you could add on to it!
+Not only do you get to build out a popular feature that is used on many applications, this challenge will give you some practice handling the ever-so-frequent button click! The fun thing about this one is, while it's a small piece of functionality, there are endless possibilities for how you implement it and what you could add on to it!
 
 ## Instructions
 
@@ -21,7 +21,7 @@ As a user,
 ```
 As a user,
 - When I click the "Dark Mode" button,
-- The I clikc the "Light Mode" button
+- The I click the "Light Mode" button
 - The background color changes back to the light color
 ```
 
