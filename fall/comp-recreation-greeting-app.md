@@ -14,7 +14,7 @@ Complete this challenge in a CodePen. Submit the link to that CodePen in the Goo
 
 **Font:** [Montserrat](https://fonts.google.com/?query=mont&selection.family=Montserrat) (To import a font in CodePen, you do NOT need to have a head tag with the link tag inside; click the settings icon to the left of the HTML title for that file, then copy and past the link tag for the font into the "Stuff for " input, then click "Save and Close".)
 
-*Colors:*
+**Colors:**
 - Header color: `#471D8E`
 - Button color: `#2DCD37`
 - Bottom of button color: `#229A29`
