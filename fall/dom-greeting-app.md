@@ -41,10 +41,6 @@ As a user,
 - Nothing happens
 ```
 
-## Additional Resources
-
-Provide resources if needed
-
 ## Deliverable
 
 Complete this challenge in a CodePen. Submit the link to that CodePen in the Google Form provided in the cohort channel.
