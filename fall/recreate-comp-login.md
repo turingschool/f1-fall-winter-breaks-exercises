@@ -8,7 +8,7 @@ Write HTML and CSS to recreate the layout of the login form pictured below. The 
 
 ## Additional Resources
 
-Grab your own icons. One easy-to-use site is [Flat Icon](flaticon.com).
+Grab your own icons. One easy-to-use site is [Flat Icon](https://www.flaticon.com/).
 
 ## Deliverable
 
