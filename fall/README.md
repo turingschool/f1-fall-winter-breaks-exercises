@@ -10,7 +10,7 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 ## JavaScript DOM Challenges
 
-- Dark Mode
+- [Dark Mode](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/dom-dark-mode.md)
 - Greeting App Functionality
 - Basically IdeaBox
 
