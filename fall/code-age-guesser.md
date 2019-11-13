@@ -9,7 +9,7 @@ This will give you practice with arguments and parameters, interpolation, and a 
 * Declare a global variable, `correctAge` and set it to your age (or any number!)
 * Declare a function called `guessAge`. This function should:
   - accept 1 argument, a Number
-  - return a String, either "You guessed _____? I'm not that old!" if the argument passed in was greater than `correctAge`, or "You guessed _____? Hahaha!" if the argument passed in was less than `correctAge`. (In those cases, the "_____" should be replaced with the value of the parameter. If the argument matches `correctAge`, return "WOW, great guess. What are the odds?"
+  - return a String, either "You guessed _ _ _ _? I'm not that old!" if the argument passed in was greater than `correctAge`, or "You guessed _ _ _ _? Hahaha!" if the argument passed in was less than `correctAge`. (In those cases, the "_ _ _ _" should be replaced with the value of the parameter. If the argument matches `correctAge`, return "WOW, great guess. What are the odds?"
 * Invoke the function several times, passing it a different argument each time to ensure that all three cases are covered correctly.
 
 ### Step 2:
