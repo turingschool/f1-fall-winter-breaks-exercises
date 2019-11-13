@@ -17,5 +17,5 @@ For each category, challenges are ordered by level of difficulty - least difficu
 ## JavaScript Code Challenges
 
 - 1 (set of relatively easy functions)
-- Age Guesser
+- [Age Guesser](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/code-age-guesser.md)
 - 3 (something pretty hard)
