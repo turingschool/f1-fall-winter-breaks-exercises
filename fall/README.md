@@ -4,8 +4,8 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 ## Comp Recreations
 
-- Login Form
-- Greeting App Comp
+- [Login Form](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-login.md)
+- [Greeting App Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-greeting-app.md)
 - (another one...)
 
 ## JavaScript DOM Challenges
