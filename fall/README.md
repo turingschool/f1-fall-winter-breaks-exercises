@@ -14,9 +14,10 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 - [Greeting App Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-greeting-app.md)
 - (another one...)
 
-### CSS Learning
+### Learning
 
 - 100 Days of CSS
+- Code Tidbits
 
 ### JavaScript DOM Challenges
 
