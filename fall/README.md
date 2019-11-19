@@ -27,7 +27,7 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 ### JavaScript Code Challenges
 
-- 1 (set of relatively easy functions)
+- [Say My Name](say-my-name.md)
 - [Age Guesser](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/code-age-guesser.md)
 - 3 (something pretty hard)
 
