@@ -4,7 +4,7 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 ## Submission Directions
 
-No matter which challenges or combinations of challenges you choose to tackle, everyone will submit the link to **one** GitHub gist containing links to all of your work. A thread in the cohort slack channel will be pinned to the channel, please drop the link to your gist there by 4pm Sunday, December 1.
+No matter which challenges or combinations of challenges you choose to tackle, everyone will submit the link to **one** GitHub gist containing links to all of your work. Please use the formatting [in this template](). A thread in the cohort slack channel will be pinned to the channel, please drop the link to your gist there by 4pm Sunday, December 1.
 
 ## Challenges
 
