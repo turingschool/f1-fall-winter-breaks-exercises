@@ -10,9 +10,9 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 ### Comp Recreations
 
-- [Login Form Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-login.md)
-- [Greeting App Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-greeting-app.md)
-- [Friends Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-friends.md)
+- [Login Form Comp](comp-recreation-login.md)
+- [Greeting App Comp](comp-recreation-greeting-app.md)
+- [Friends Comp](comp-recreation-friends.md)
 
 ### Learning
 
@@ -21,14 +21,14 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 ### JavaScript DOM Challenges
 
-- [Dark Mode](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/dom-dark-mode.md)
-- [Greeting App Functionality](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/dom-greeting-app.md)
+- [Dark Mode](dom-dark-mode.md)
+- [Greeting App Functionality](dom-greeting-app.md)
 - Basically IdeaBox
 
 ### JavaScript Code Challenges
 
 - [Say My Name](say-my-name.md)
-- [Age Guesser](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/code-age-guesser.md)
+- [Age Guesser](code-age-guesser.md)
 - 3 (something pretty hard)
 
 ### Professional Practices
