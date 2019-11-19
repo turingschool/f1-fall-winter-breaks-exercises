@@ -22,4 +22,4 @@ You will likely have an idea in your head about how to generate a random number,
 
 ## Deliverable
 
-Complete this challenge **in a repl**. Submit the link to that repl in the Google Form provided in the cohort channel.
+Complete this challenge **in a repl**. Provide the link in your submission gist.
