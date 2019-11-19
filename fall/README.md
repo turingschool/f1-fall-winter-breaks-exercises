@@ -10,9 +10,9 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 ### Comp Recreations
 
-- [Login Form](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-login.md)
+- [Login Form Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-login.md)
 - [Greeting App Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-greeting-app.md)
-- (another one...)
+- [Friends Comp](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/comp-recreation-friends.md)
 
 ### Learning
 
