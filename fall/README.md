@@ -34,6 +34,6 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 ### Professional Practices
 
 - Read three blog posts
-- Write a blog post
+- [Write a blog post](professional-write-blog-post.md)
 - Document a Mentor Meeting
 - Prepare questions for coffee meetings and job shadows
