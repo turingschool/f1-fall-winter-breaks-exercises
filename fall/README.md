@@ -29,7 +29,7 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 - [Say My Name](say-my-name.md)
 - [Age Guesser](code-age-guesser.md)
-- 3 (something pretty hard)
+- [SuperFizzBuzz](super-fizz-buzz.md)
 
 ### Professional Practices
 
