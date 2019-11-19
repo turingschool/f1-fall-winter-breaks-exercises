@@ -43,7 +43,7 @@ As a user,
 
 ## Deliverable
 
-Complete this challenge in a CodePen. Submit the link to that CodePen in the Google Form provided in the cohort channel.
+Complete this challenge **in a CodePen**. Provide the link in your submission gist.
 
 ## Example
 
