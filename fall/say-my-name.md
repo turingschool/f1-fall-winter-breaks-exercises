@@ -10,7 +10,7 @@ functions, paramenters, and return values.
   make sure it makes sense!
 - You should write your function in such a way, that the following writes
   `Amy!!` to the console:
-  `console.log(sayMyName('Amy!!'));
+  `console.log(sayMyName('Amy!!'))`;
 
 ## Deliverable
 
