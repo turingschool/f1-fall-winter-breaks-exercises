@@ -16,8 +16,8 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 ### Learning
 
-- [100 Days of CSS](https://github.com/turingschool/f1-fall-winter-breaks-exercises/blob/master/fall/100-days-css.md)
-- Code Tidbits
+- [100 Days of CSS](100-days-css.md)
+- [Code Tidbits](code-tidbits.md)
 
 ### JavaScript DOM Challenges
 
