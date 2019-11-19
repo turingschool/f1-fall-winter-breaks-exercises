@@ -8,7 +8,7 @@ Write HTML and CSS to recreate the layout of the comp below. The purple header s
 
 ## Deliverable
 
-Complete this challenge in a CodePen. Submit the link to that CodePen in the Google Form provided in the cohort channel.
+Complete this challenge **in a CodePen**. Provide the link in your submission gist.
 
 ## Comp
 
