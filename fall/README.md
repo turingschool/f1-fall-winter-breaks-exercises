@@ -6,6 +6,14 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 No matter which challenges or combinations of challenges you choose to tackle, everyone will submit the link to **one** GitHub gist containing links to all of your work. Please use the formatting [in this template](). A thread in the cohort slack channel will be pinned to the channel, please drop the link to your gist there by 4pm Sunday, December 1.
 
+[Here](https://help.github.com/en/github/writing-on-github/creating-gists) is an article about creating a gist.
+
+Make sure to name your submission gist something like "Leta.md" - your name, with the `.md` file extension!
+
+"Markdown" is the language used in `.md` files. (Yep, yet another language!) This is what you'll use when you begin creating `README.md` files in your projects, which are summaries and descriptions of the work you and your team did.
+
+[Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a really fantastic markdown formatting cheat sheet!
+
 ## Challenges
 
 ### Comp Recreations
