@@ -29,11 +29,10 @@ PLEASE DELETE THE BULLET POINTS FOR THE CHALLENGES YOU DO NOT COMPLETE!
 
 - [Say My Name](put your repl link here)
 - [Age Guesser](put your repl link here)
-- [Super FizzBuzz] (put your repl link here)
+- [Super FizzBuzz](put your repl link here)
 
 ### Professional Practices
 
-- Read three blog posts
+- [Read three blog posts](put your summary gist link here)
 - [Write a blog post](put your blog post link here)
-- Document a Mentor Meeting
-- Prepare questions for coffee meetings and job shadows
+- [Prepare questions for coffee meetings and job shadows](put your summary gist link here)
