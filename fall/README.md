@@ -41,7 +41,7 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 ### Professional Practices
 
-- Read three blog posts
+- [Read three blog posts](read-three-blog-posts.md)
 - [Write a blog post](professional-write-blog-post.md)
 - Document a Mentor Meeting
 - Prepare questions for coffee meetings and job shadows
