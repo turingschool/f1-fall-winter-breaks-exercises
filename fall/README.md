@@ -31,7 +31,7 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 - [Dark Mode](dom-dark-mode.md)
 - [Greeting App Functionality](dom-greeting-app.md)
-- Basically IdeaBox
+<!--- Basically IdeaBox-->
 
 ### JavaScript Code Challenges
 
@@ -43,4 +43,4 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 - [Read three blog posts](read-three-blog-posts.md)
 - [Write a blog post](professional-write-blog-post.md)
-- Prepare questions for coffee meetings and job shadows
+<!--- Prepare questions for coffee meetings and job shadows-->
