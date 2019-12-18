@@ -18,12 +18,14 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 ### JavaScript DOM Challenges
 
-- [Munchie Madness](munchie-madness.md) https://codepen.io/eric_turing/pen/GRKEeEY TO DO
+- [Munchie Madness](munchie-madness.md)
 - [Will Andy Pick Me?](https://github.com/turingschool/will-andy-pick-me)
 
 ### JavaScript Code Challenges
 
-- [SuperFizzBuzz](super-fizz-buzz.md)
+- [](function that filters an array, give them a repl with function skeleton and lot of calls with diff arrays)
+- []()
+- []()
 
 ### OOJS + TDD Challenges
 
@@ -36,4 +38,4 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 ### Professional Practices
 
 - [Write a blog post](professional-write-blog-post.md)
-- [Prep for Coffee Meetings](prep-coffee-meetings.md) TO DO
+- [Prep for Coffee Meetings](prep-coffee-meetings.md)
