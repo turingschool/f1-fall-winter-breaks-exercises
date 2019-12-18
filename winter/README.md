@@ -23,8 +23,8 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 ### JavaScript Code Challenges
 
-- [](function that filters an array, give them a repl with function skeleton and lot of calls with diff arrays)
-- []()
+- [Arrays - Medium](code-medium-arrays.md)
+- [Arrays - Spicy](code-spicy-arrays.md)
 - []()
 
 ### OOJS + TDD Challenges
