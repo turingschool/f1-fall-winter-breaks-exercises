@@ -4,7 +4,7 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 ## Submission Directions
 
-No matter which challenges or combinations of challenges you choose to tackle, everyone will submit the link to **one** GitHub gist containing links to all of your work. Please use the formatting [in this template](fall-submission-template.md). A Google Form link will be pinned to the cohort channel, please provide the link to your gist there by 4pm on Sunday, January 5.
+No matter which challenges or combinations of challenges you choose to tackle, everyone will submit the link to **one** GitHub gist containing links to all of your work. Please use the formatting [in this template](winter-submission-template.md). A Google Form link will be pinned to the cohort channel, please provide the link to your gist there by 4pm on Sunday, January 5.
 
 [Here](https://help.github.com/en/github/writing-on-github/creating-gists) is an article about creating a gist. Make sure to name your submission gist something like "Leta.md" - your name, with the `.md` file extension! [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a really fantastic markdown formatting cheat sheet!
 
