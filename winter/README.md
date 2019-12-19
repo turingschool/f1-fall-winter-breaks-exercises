@@ -3,13 +3,17 @@
 ## Required Work
 
 ✅The requirement is that each student complete a minimum of 4 challenges from the menu (below). It will be submitted on a gist via Google Form. 
+
 🐻Students are to limit work time on Build-A-Bear to 10 hours of work per teammate. This is to limit conflict between groups that we have observed every Holiday in the past. 
 
 ## Submission Directions
 
 No matter which challenges or combinations of challenges you choose to tackle, everyone will submit the link to **one** GitHub gist containing links to all of your work. 
+
 💻Please use the formatting [in this template](winter-submission-template.md). 
+
 🔖A Google Form link will be pinned to the cohort channel. 
+
 📅Please provide the link to your gist there by 4pm on Sunday, January 5.
 
 [Here](https://help.github.com/en/github/writing-on-github/creating-gists) is an article about creating a gist. Make sure to name your submission gist something like "Leta.md" - your name, with the `.md` file extension! [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a really fantastic markdown formatting cheat sheet!
@@ -17,14 +21,19 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 ## Holiday Break Buddies
 
 You've been paired up with another classmate based on your estimated number of available work hours. Different folks have different needs during the holiday, and it's unfair to put pressure on someone for working a lot of hours or working as few as they need to. So we paired you up with the idea that this is a no-pressure zone. You have a person you can reach out to without fear of pressuring them or that they will never respond, etc. 
+
 📎You are not required to do anything together or meet up in person. This is just a support we gave you. It's what you make of it. 
+
 🎉You are also still encouraged to collaborate with any/all other classmates, and if the class wants to self-organize study sessions, etc. please do so!
 
 ## Instructor Availability
 
 We also have families and additional responsibilities for Turing outside of teaching Mod 1. Instructors are usually completely unavailable during Holidays but we want to support you in making a lot of progress particularly if you are worried about passing. 
+
 🗄So we have a few times for office hours. If you can't be there in person, we will be checking Slack during those office hours. 
+
 ❌Outside of that, do not expect us to respond to Slack messages as we normally would. Your mentors also may be celebrating a holiday so please keep that in mind and be understanding if their response time is slower than usual. 
+
 ❓If you have questions while working during the break, it's still best to post those in the public channel!
 
 Leta - TBD
