@@ -6,13 +6,22 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 No matter which challenges or combinations of challenges you choose to tackle, everyone will submit the link to **one** GitHub gist containing links to all of your work. Please use the formatting [in this template](fall-submission-template.md). A Google Form link will be pinned to the cohort channel, please provide the link to your gist there by 4pm on Sunday, January 5.
 
-[Here](https://help.github.com/en/github/writing-on-github/creating-gists) is an article about creating a gist.
+[Here](https://help.github.com/en/github/writing-on-github/creating-gists) is an article about creating a gist. Make sure to name your submission gist something like "Leta.md" - your name, with the `.md` file extension! [Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a really fantastic markdown formatting cheat sheet!
 
-Make sure to name your submission gist something like "Leta.md" - your name, with the `.md` file extension!
+## Holiday Break Buddies
 
-"Markdown" is the language used in `.md` files. (Yep, yet another language!) This is what you'll use when you begin creating `README.md` files in your projects, which are summaries and descriptions of the work you and your team did.
+You've been paired up with another classmate based on your estimated number of available work hours. Different folks have different needs during the holiday, and it's unfair to put pressure on someone for working a lot of hours or working as few as they need to. So we paired you up with the idea that this is a no-pressure zone. You have a person you can reach out to without fear of pressuring them or that they will never respond, etc. You are not required to do anything together or meet up in person. This is just a support we gave you. It's what you make of it.
 
-[Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a really fantastic markdown formatting cheat sheet!
+## Required Work
+
+The requirement is that each student complete a minimum of 4 challenges from the menu. It will be submitted on a gist via Google Form. Students are to limit work time on Build-A-Bear to 10 hours of work per teammate. This is to limmit conflict between groups that we have observed every Holiday in the past. 
+
+## Instructor Availability
+
+We also have families and additional responsibilities for Turing outside of teaching Mod 1. Instructors are usually completely unavailable during Holidays but we want to support you in making a lot of progress particularly if you are worried about passing. So we have a few times for office hours. If you can't be there in person, we will be checking Slack during those office hours. Outside of that, do not expect us to respond to Slack messages as we normally would. 
+
+Leta - TBD
+Amy - 9am - 1pm Monday December 30 @ Stanley Marketplace
 
 ## Challenges
 
@@ -39,3 +48,12 @@ Make sure to name your submission gist something like "Leta.md" - your name, wit
 
 - [Write a blog post](professional-write-blog-post.md)
 - [Prep for Coffee Meetings](prep-coffee-meetings.md)
+
+
+## Other Things You Can Do
+
+*can* - not required. These are not required. These are extra resources for you.
+
+- [Balancing Act](https://frontend.turing.io/projects/module-1/balancing-act-solo/index.html)
+- [Intention Timer Project](https://frontend.turing.io/projects/module-1/intention-timer-pair.html)
+- [Code Wars](https://www.codewars.com/)
