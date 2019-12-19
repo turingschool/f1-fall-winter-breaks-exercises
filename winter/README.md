@@ -1,4 +1,4 @@
-# Winter Break Work ☃️
+# Winter Break Work
 
 ## Required Work
 
@@ -12,7 +12,7 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 💻 Please use the formatting [in this template](winter-submission-template.md). 
 
-🔖 A Google Form link will be pinned to the cohort channel. 
+📌 A Google Form link will be pinned to the cohort channel. 
 
 📅 Please provide the link to your gist there by 4pm on Sunday, January 5.
 
