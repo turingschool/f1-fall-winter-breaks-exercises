@@ -12,7 +12,7 @@ No matter which challenges or combinations of challenges you choose to tackle, e
 
 ## Holiday Break Buddies
 
-You've been paired up with another classmate based on your estimated number of available work hours. Different folks have different needs during the holiday, and it's unfair to put pressure on someone for working a lot of hours or working as few as they need to. So we paired you up with the idea that this is a no-pressure zone. You have a person you can reach out to without fear of pressuring them or that they will never respond, etc. You are not required to do anything together or meet up in person. This is just a support we gave you. It's what you make of it.
+You've been paired up with another classmate based on your estimated number of available work hours. Different folks have different needs during the holiday, and it's unfair to put pressure on someone for working a lot of hours or working as few as they need to. So we paired you up with the idea that this is a no-pressure zone. You have a person you can reach out to without fear of pressuring them or that they will never respond, etc. You are not required to do anything together or meet up in person. This is just a support we gave you. It's what you make of it. You are also still encouraged to collaborate with any/all other classmates, and if the class wants to self-organize study sessions, etc. please do so!
 
 ## Instructor Availability
 
