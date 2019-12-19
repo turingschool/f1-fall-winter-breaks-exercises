@@ -36,7 +36,10 @@ We also have families and additional responsibilities for Turing outside of teac
 
 ❓ If you have questions while working during the break, it's still best to post those in the public channel!
 
-Leta - TBD
+Leta - 8am - 11am Tuesday December 24 @ Link Coffee (if it's closed, Leta will be available on Slack)
+
+Leta - 8am - 11am Thursday December 26 @ Link Coffee (if it's closed, Leta will be available on Slack)
+
 Amy - 9am - 1pm Monday December 30 @ Stanley Marketplace
 
 ## Challenges
