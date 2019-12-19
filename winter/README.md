@@ -14,7 +14,7 @@ You've been paired up with another classmate based on your estimated number of a
 
 ## Required Work
 
-The requirement is that each student complete a minimum of 4 challenges from the menu. It will be submitted on a gist via Google Form. Students are to limit work time on Build-A-Bear to 10 hours of work per teammate. This is to limmit conflict between groups that we have observed every Holiday in the past. 
+The requirement is that each student complete a minimum of 4 challenges from the menu. It will be submitted on a gist via Google Form. Students are to limit work time on Build-A-Bear to 10 hours of work per teammate. This is to limit conflict between groups that we have observed every Holiday in the past. 
 
 ## Instructor Availability
 
