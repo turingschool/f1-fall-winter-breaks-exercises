@@ -56,8 +56,8 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 ### OOJS + TDD Challenges
 
+- [Employees](https://github.com/turingschool/employees)
 - [Books and Authors](https://github.com/turingschool-examples/books-and-authors)
-- []() TO DO
 - [Golf Course](https://github.com/turingschool-examples/golf-course)
 
 **Deliverables for this set of challenges:** provide the link to your repo in your gist.
