@@ -53,6 +53,7 @@ For each category, challenges are ordered by level of difficulty - least difficu
 
 ### JavaScript Code Challenges
 
+- [Objects - Mild](code-objects-mild.md)
 - [Arrays - Medium](code-medium-arrays.md)
 - [Arrays - Spicy](code-spicy-arrays.md)
 - [Arrays & Objects - Spicy](code-spicy2-arrays.md)
