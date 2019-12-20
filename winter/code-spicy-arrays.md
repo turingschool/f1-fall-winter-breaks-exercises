@@ -9,4 +9,4 @@ Fork the repls below, then write the code necessary inside of the function to ge
 
 ## Deliverable
 
-Provide the link to your CodePen in your submission gist.
+Provide the link to your repl in your submission gist.
