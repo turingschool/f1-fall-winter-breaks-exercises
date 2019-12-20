@@ -56,6 +56,7 @@ For each category, challenges are ordered by level of difficulty - least difficu
 - [Arrays - Medium](code-medium-arrays.md)
 - [Arrays - Spicy](code-spicy-arrays.md)
 - [Arrays & Objects - Spicy](code-spicy2-arrays.md)
+- [Arrays & Objects - Inferno](code-arrays-objects-inferno.md)
 
 ### OOJS + TDD Challenges
 
